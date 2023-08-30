@@ -1,0 +1,32 @@
+h1{
+    border: 1px solid red;
+ 
+}
+
+p{
+    border: 1px solid green;
+   
+}
+
+#Aju{
+
+    width:1000px;
+}
+
+#WH{
+
+    width: 80px;
+    height: 120px;
+}
+
+#ang{
+
+    width: 11px;
+    height: 680px;
+}
+
+    body{
+        background: rgb(99, 66, 17);
+        
+          
+}

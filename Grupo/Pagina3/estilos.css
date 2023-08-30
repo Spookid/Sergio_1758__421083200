@@ -1,0 +1,32 @@
+h1{
+
+    font-style: italic;
+    color: rgb(42, 22, 59);
+    background-color: rgba(68, 83, 92, 0.534);
+
+
+}
+
+p{
+    font-style: oblique;
+    color: rgba(209, 199, 143, 0.623);
+    background-color: rgba(55, 3, 71, 0.363);
+
+}
+
+#segun{
+
+    font-style: inherit;
+    color: rgba(33, 223, 90, 0.61);
+    background-color: rgba(116, 146, 9, 0.568);
+}
+#prime{
+
+    font-style: italic;
+    color: rgba(161, 184, 32, 0.692);
+    background-color: rgb(89, 0, 255);
+}
+body{
+    background: rgb(235, 148, 18);
+    background: linear-gradient(135deg, rgb(195, 34, 34) 23%, rgb(191, 253, 45) 100%); 
+  }

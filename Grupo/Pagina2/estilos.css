@@ -1,0 +1,32 @@
+h1{
+
+    font-style: italic;
+    color: rgb(5, 61, 42);
+    background-color: rgb(255, 0, 0);
+
+
+}
+
+p{
+    font-style: oblique;
+    color: rgb(143, 209, 157);
+    background-color: rgb(71, 3, 3);
+
+}
+
+#segun{
+
+    font-style: inherit;
+    color: rgb(109, 87, 16);
+    background-color: rgb(255, 0, 170);
+}
+#prime{
+
+    font-style: italic;
+    color: rgb(9, 9, 87);
+    background-color: rgb(89, 0, 255);
+}
+body{
+    background: rgb(153, 112, 51);
+    background: linear-gradient(135deg, rgb(195, 34, 34) 23%, rgb(45, 118, 253) 100%); 
+  }
