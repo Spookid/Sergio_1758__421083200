@@ -1,1 +1,1 @@
-# Sergio_1758__421083200
+Ejercicios de la clase 29/08/2023
